@@ -5,5 +5,5 @@ function CheckPrime(number){
             count++;
         }
     }
-    return count == 2;
+    console.log(count == 2);
 }
