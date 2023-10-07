@@ -5,6 +5,7 @@ function CheckPrime(number){
             count++;
         }
     }
+
     console.log(count);
 }
 
